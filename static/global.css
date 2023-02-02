@@ -1,0 +1,51 @@
+body, h2 {
+	margin: 0;
+}
+.pointer:hover {
+	cursor: pointer;
+}
+.custom_button {
+	border: 1px solid;
+	padding: 2px;
+}
+.flex {
+	display: flex;
+}
+.flex select {
+	margin: auto auto auto 1rem;
+}
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.inline {
+	display: inline;
+}
+.space-between {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 2rem;
+}
+.space-around {
+	display: flex;
+	justify-content: space-around;
+}
+.border {
+	border: 3px solid;
+}
+.padding1 {
+	padding: 1rem;
+}
+.arrows {
+	display: flex;
+	flex-flow: column;
+	padding: 0 0.6em;
+	padding-bottom: 0.5rem;
+}
+.arrow {
+	height: 0.8em;
+}
+.trashcan {
+	margin: 0 1rem;
+}
